@@ -4,6 +4,7 @@
   "description": "find word under cursor in files by pressing alt + f",
   "repository": "https://github.com/muikku/find-cursed-word-in-files",
   "license": "UNLICENSED",
+  "publisher": "Markus Muinonen",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
